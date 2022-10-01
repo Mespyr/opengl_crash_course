@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# obj
+obj/
+opengl_crash_course
